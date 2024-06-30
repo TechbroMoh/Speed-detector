@@ -14,6 +14,5 @@ function checkSpeed(speed) {
     }
 }
 
-// Example usage
 const speed = 80;
 checkSpeed(speed);

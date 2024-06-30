@@ -1,0 +1,10 @@
+{
+    "name": "speed-detector",
+    "version": "1.0.0",
+    "description": "A program to detect speed violations and issue demerit points.",
+    "main": "script.js",
+    "scripts": {
+      "start": "node script.js"
+    },
+ 
+  
